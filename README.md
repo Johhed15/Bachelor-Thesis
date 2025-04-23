@@ -1,5 +1,5 @@
 # Bachelor-Thesis
-This repository contains the Bachelor thesis in statistics and data analysis by Johannes Hedström and Mikael Montén [GitHub](https://github.com/orednilserik).
+This repository contains the Bachelor thesis in statistics and data analysis by Johannes Hedström and [Mikael Montén](https://github.com/orednilserik).
 
 
 # Mixed media model for marketing
